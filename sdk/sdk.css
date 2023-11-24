@@ -5,6 +5,7 @@ div.footer {background:black;color:white;max-width:1000px;font-size:11px;padding
 
 h1 {background:#444;color:white;border:1px #888 outset;border-radius:16px;max-width:1000px;text-align:center;margin:0 auto;}
 h2 {color:white;}
+h2.time {text-align:center;background:black;}
 
 a {color:#88f}
 a:hover {color:rgb(255, 99, 99)}
